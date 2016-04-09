@@ -1,0 +1,12 @@
+DOXYFILE_ENCODING = UTF-8
+PROJECT_NAME = "Doxygen Sample"
+PROJECT_NUMBER = "1.0 Release"
+OUTPUT_DIRECTORY = html/doxygen-sample
+IMAGE_PATH = html/doxygen-sample/imags
+OUTPUT_LANGUAGE = Chinese
+GENERATE_LATEX = NO
+GENERATE_TREEVIEW = YES
+EXTRACT_ALL = YES
+INPUT = . src doc
+#FILE_PATTERNS = *.h *.c
+
